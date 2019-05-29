@@ -109,5 +109,11 @@ ul.nav.navbar-nav {
     text-align: left;
     padding: 16px;
 }
+.is-card.package .bottom-half ul.features {
+    padding-left: 14px;
+}
+.is-card.package .bottom-half ul.features li {
+    list-style-image: url(/html/uploads/2019/05/checkmark_1344785880.png);
+}
 
 	
