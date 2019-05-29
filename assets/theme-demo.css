@@ -69,5 +69,32 @@ ul.nav.navbar-nav {
     background-repeat: no-repeat;
     background-position: center;
 }
+.is-card.package {
+    position: relative;
+}
+.is-card.package .top-half {
+    width: 100%;
+    min-height: 150px;
+    background-image: url(/html/uploads/2019/05/cloud-bg_2084551605.png);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: top;
+    background-repeat-y: no-repeat;
+}
+.is-card.package .price-tag {
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #39b2e6;
+    color: #fff;
+    padding: 4px 20px;
+    border: 14px solid #fff;
+    border-radius: 50%;
+}
+.is-card.package .price-tag span.amount, .is-card.package .price-tag span.duration {
+    display: block;
+    color: #fff;
+}
 
 	
