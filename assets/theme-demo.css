@@ -1,0 +1,67 @@
+body{
+					font-family: Roboto Medium;
+					}
+	p{
+					font-family: Roboto Medium;
+					}
+	h1,.h1{
+					font-family: Roboto Medium;
+							font-size: 41px;
+			}
+	h2,.h2{
+					font-family: Roboto Medium;
+							font-size: 31px;
+			}
+	h3,.h3{
+					font-family: Roboto Medium;
+							font-size: 27px;
+			}
+	h4,.h4{
+					font-family: Roboto Medium;
+							font-size: 20px;
+			}
+	h5,.h5{
+					font-family: Roboto Medium;
+							font-size: 18px;
+			}
+	h6,.h6{
+					font-family: Roboto Medium;
+							font-size: 16px;
+			}
+	a{
+					font-family: Roboto Medium;
+					}
+
+
+
+
+		
+	.email a i {
+    padding-right: 7px;
+}
+.phone a i {
+    padding-right: 2px;
+}
+.phone, .email {
+    display: inline-block;
+    padding-right: 23px;
+}
+.header-top a {
+    color: #fff;
+}
+.header-top i.fa {
+    color: #fff;
+}
+.header-top {
+    background: #c4a2e2;
+    padding: 10px 0px;
+}
+.navbar-custom {
+    padding: 0px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, -4px 14px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, -4px 14px 15px 5px rgba(0,0,0,0);
+}
+ul.nav.navbar-nav {
+    margin-top: 7px;
+}
+	
