@@ -101,5 +101,13 @@ ul.nav.navbar-nav {
     transform: translateX(-50%);
     max-width: 75px;
 }
+.is-card.package {
+    width: 100%;
+}
+.is-card.package .bottom-half {
+    margin: 0 auto;
+    text-align: left;
+    padding: 16px;
+}
 
 	
