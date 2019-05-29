@@ -115,5 +115,13 @@ ul.nav.navbar-nav {
 .is-card.package .bottom-half ul.features li {
     list-style-image: url(/html/uploads/2019/05/checkmark_1344785880.png);
 }
+.is-card.package .bottom-half a.is-btn {
+    background-image: linear-gradient(to bottom, #53c3f0 , #32a8df);
+    border: 1px solid #32a8df;
+    color: #fff;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    border-radius: 8px;
+}
 
 	
