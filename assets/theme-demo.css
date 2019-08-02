@@ -72,7 +72,7 @@ ul.nav.navbar-nav {
 .is-card.package .top-half {
     width: 100%;
     min-height: 150px;
-    background-image: url(/html/uploads/2019/05/cloud-bg_2084551605.png);
+    background-image: url(/uploads/2019/08/cloudy-bg_337935356.png);
     background-size: contain;
     background-repeat: repeat;
     background-position: top;
@@ -125,3 +125,54 @@ ul.nav.navbar-nav {
 }
 
 	
+.navbar-custom{
+		background-color:rgba(255,255,255,0);
+}
+
+.navbar-toggle{
+	background-color:rgba(0,0,0,1);
+}
+.header3 .slide-toggle span,.header4 .slide-toggle span{
+	
+}
+.navbar-custom .navbar-nav li a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,1);
+}
+.navbar-custom .navbar-nav li:hover > a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .nav>li>a:focus, .navbar-custom .nav>li>a:hover, .navbar-custom .navbar-nav li.active a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .navbar-nav li ul.sub-menu li a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,1);
+}
+.navbar-custom .navbar-nav li ul.sub-menu li:hover > a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .nav li ul.sub-menu li a:focus, .navbar-custom .nav li ul.sub-menu li.active a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.sticky-wrapper.is-sticky .navbar-custom{
+	background-color:rgba(0,0,0,1);
+}
+.sticky-wrapper.is-sticky .navbar-custom .navbar-nav li a{
+	color:rgba(0,0,0,1);
+}
+.sticky-wrapper.is-sticky .navbar-custom .navbar-nav li:hover > a{
+	color:rgba(0,0,0,1);
+}
+.header3 .sliding .sliding-menu,.header4 .sliding .sliding-menu{
+	background-color:#eaeaea
+}
+@media (max-width: 768px){
+	.navbar-collapse{
+		background-color:rgba(0,0,0,0);
+	}
+}
