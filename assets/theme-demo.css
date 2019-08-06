@@ -164,15 +164,7 @@ height: 35px;
 .is-card.package .bottom-half ul.features li {
     list-style-image: url(/html/uploads/2019/05/checkmark_1344785880.png);
 }
-a.is-btn,a.btn {
-    background-image: linear-gradient(to bottom, #53c3f0 , #32a8df);
-    border: 1px solid #32a8df !important;
-    color: #fff !important;
-    letter-spacing: 0;
-    text-transform: capitalize;
-    border-radius: 8px;
-}
-a.is-btn:hover,a.btn:hover{
+a.btn-lg:hover,a.btn-md:hover{
 opacity: .9;
 }
 .footer{
@@ -183,7 +175,7 @@ padding-top: 40px;
 padding-bottom: 100px;
 }
 
-	
+	.button_1530807{-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-color:#53c3f0;background-image: -webkit-gradient(linear, left top, left bottom, from(#53c3f0), to(#32a8df));background-image: -webkit-linear-gradient(top, #53c3f0, #32a8df);background-image: -moz-linear-gradient(top, #53c3f0, #32a8df);background-image: -ms-linear-gradient(top, #53c3f0, #32a8df);background-image: -o-linear-gradient(top, #53c3f0, #32a8df);background-image: linear-gradient(to bottom, #53c3f0, #32a8df);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#53c3f0, endColorstr=#32a8df);color:#ffffff;font-family:Roboto;font-size:16px;line-height:32px;font-weight:400;border-top-left-radius:8px;border-top-right-radius:8px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-left-width:1px;border-right-width:1px;border-top-width:1px;border-bottom-width:1px;padding-left:50px;padding-right:50px;padding-top:10px;padding-bottom:10px;display:inline-block;}.button_1530807:hover{background-color:#53c3f0;background-image: -webkit-gradient(linear, left top, left bottom, from(#53c3f0), to(#32a8df));background-image: -webkit-linear-gradient(top, #53c3f0, #32a8df);background-image: -moz-linear-gradient(top, #53c3f0, #32a8df);background-image: -ms-linear-gradient(top, #53c3f0, #32a8df);background-image: -o-linear-gradient(top, #53c3f0, #32a8df);background-image: linear-gradient(to bottom, #53c3f0, #32a8df);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#53c3f0, endColorstr=#32a8df);color:#ffffff;font-family:Roboto;font-size:16px;line-height:32px;font-weight:400;border-top-left-radius:8px;border-top-right-radius:8px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-left-width:1px;border-right-width:1px;border-top-width:1px;border-bottom-width:1px;padding-left:50px;padding-right:50px;padding-top:10px;padding-bottom:10px;}.button_7809348{-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-color:#53c3f0;background-image: -webkit-gradient(linear, left top, left bottom, from(#53c3f0), to(#32a8df));background-image: -webkit-linear-gradient(top, #53c3f0, #32a8df);background-image: -moz-linear-gradient(top, #53c3f0, #32a8df);background-image: -ms-linear-gradient(top, #53c3f0, #32a8df);background-image: -o-linear-gradient(top, #53c3f0, #32a8df);background-image: linear-gradient(to bottom, #53c3f0, #32a8df);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#53c3f0, endColorstr=#32a8df);color:#ffffff;font-family:Roboto;font-size:13px;line-height:32px;font-weight:400;border-top-left-radius:8px;border-top-right-radius:8px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-left-width:1px;border-right-width:1px;border-top-width:1px;border-bottom-width:1px;padding-left:25px;padding-right:25px;padding-top:5px;padding-bottom:5px;display:inline-block;}.button_7809348:hover{background-color:#53c3f0;background-image: -webkit-gradient(linear, left top, left bottom, from(#53c3f0), to(#32a8df));background-image: -webkit-linear-gradient(top, #53c3f0, #32a8df);background-image: -moz-linear-gradient(top, #53c3f0, #32a8df);background-image: -ms-linear-gradient(top, #53c3f0, #32a8df);background-image: -o-linear-gradient(top, #53c3f0, #32a8df);background-image: linear-gradient(to bottom, #53c3f0, #32a8df);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#53c3f0, endColorstr=#32a8df);color:#ffffff;font-family:Roboto;font-size:13px;line-height:32px;font-weight:400;border-top-left-radius:8px;border-top-right-radius:8px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-left-width:1px;border-right-width:1px;border-top-width:1px;border-bottom-width:1px;padding-left:25px;padding-right:25px;padding-top:5px;padding-bottom:5px;}
 .navbar-custom{
 		background-color:rgba(255,255,255,0);
 }
